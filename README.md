@@ -9,7 +9,7 @@ This project aims to develop an artificial intelligence (AI) model capable of re
 
 ## Machine Learning ands Deep Learning Frameworks uses:
 <li>Tensorflow</li>
-li>Scikit-learn</li>
+<li>Scikit-learn</li>
 <li>Numpy,Pandas</li>
 <li>Plotly</li>
 
