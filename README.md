@@ -13,6 +13,11 @@ This project aims to develop an artificial intelligence (AI) model capable of re
 <li>Numpy,Pandas</li>
 <li>Plotly</li>
 
+# Model Architecture
+
+
+Our model utilizes convolutional layers for feature extraction from hand gesture images, followed by MaxPooling to downsample and preserve key features. Dense layers integrate learned features for gesture classification, enhanced by dropout regularization to prevent overfitting. The final layer employs a sigmoid activation function for multi-label classification, enabling accurate recognition of diverse sign language gestures in real-time applications.
+
 
 ### Optimizers Used:
 - RMSprop
