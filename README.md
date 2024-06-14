@@ -23,6 +23,7 @@ Our model utilizes convolutional layers for feature extraction from hand gesture
 - RMSprop
 - Adam
 - Adadelta
+- Adagrad
 
 ### Results:
 
