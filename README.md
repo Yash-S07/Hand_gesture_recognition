@@ -71,6 +71,6 @@ After analyzing different optimizers and activation functions, the model selecte
 
 This configuration was chosen for its balanced performance in training and validation phases.
 
-![plot](model_img.png)
+![plot](image.png)
 
 ![plot](model.png)
